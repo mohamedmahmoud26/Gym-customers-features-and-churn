@@ -86,7 +86,6 @@ Key findings from visual and statistical analysis:
 | Random Forest       | **91.7%**|
 | SVM                 | 90.9%    |
 
-
 ---
 
 ## **Feature Insights**
@@ -118,16 +117,14 @@ gym-churn-prediction/
 ## **Setup & Usage**
 
 ### **1. Clone the Repository**
-bash
-git clone https://github.com/YOUR_USERNAME/gym-churn-prediction.git
+```bash
+git clone https://github.com/mohamedmahmoud26/gym-churn-prediction.git
 cd gym-churn-prediction
+```
+pip install -r requirements.txt
+jupyter notebook notebooks/churn_model.ipynb
 
-
- Install Dependencies
-bash
-Copy
-Edit
-
+## **Actionable Recommendations**
 
 Actionable Recommendations
 Targeted retention campaigns: Focus on members with low attendance this month.
@@ -136,10 +133,13 @@ Proactive trainer outreach: Contact members with short lifetime or low engagemen
 
 Upsell opportunities: High spenders may respond positively to premium offers.
 
-Future Enhancements
-Add more features: payment history, class preferences, demographics.
 
-Deploy model as API for real-time churn scoring.
+## **Future Enhancements**
 
-Automate weekly churn risk dashboard for gym managers.
+Add more features such as payment history, class preferences, and demographics.
+
+Deploy the model as an API for real-time churn scoring.
+
+Automate a weekly churn risk dashboard for gym managers.
+
 
