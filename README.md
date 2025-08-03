@@ -86,8 +86,6 @@ Key findings from visual and statistical analysis:
 | Random Forest       | **91.7%**|
 | SVM                 | 90.9%    |
 
-### **ROC Curve Example**
-![ROC Curve](images/roc_curve.png)
 
 ---
 
