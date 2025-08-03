@@ -1,4 +1,3 @@
-# Gym-customers-features-and-churn
 # Gym Membership Churn Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg) 
