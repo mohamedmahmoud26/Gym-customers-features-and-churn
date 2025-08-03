@@ -122,16 +122,19 @@ git clone https://github.com/mohamedmahmoud26/gym-churn-prediction.git
 cd gym-churn-prediction
 ```
 pip install -r requirements.txt
+
 jupyter notebook notebooks/churn_model.ipynb
+
+
 
 ## **Actionable Recommendations**
 
-Actionable Recommendations
 Targeted retention campaigns: Focus on members with low attendance this month.
 
 Proactive trainer outreach: Contact members with short lifetime or low engagement.
 
 Upsell opportunities: High spenders may respond positively to premium offers.
+
 
 
 ## **Future Enhancements**
