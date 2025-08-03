@@ -6,7 +6,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.2-yellow.svg) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8-green.svg) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.13-cyan.svg) 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 A machine learning project to predict **customer churn** in a gym.  
 The model analyzes **attendance patterns, lifetime engagement, and additional spending** to identify members at risk of leaving, enabling proactive retention strategies.
