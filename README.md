@@ -101,14 +101,23 @@ Key findings from visual and statistical analysis:
 
 gym-churn-prediction/
 ├── data/
+
 │ └── gym_members.csv
+
 ├── notebooks/
+
 │ └── churn_model.ipynb
+
 ├── reports/
+
 │ └── Gym_Customer_Churn_Report.docx
+
 ├── images/
+
 │ └── roc_curve.png
+
 ├── README.md
+
 └── requirements.txt
 
 
